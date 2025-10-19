@@ -1,6 +1,6 @@
 -- Objectif: Insérer un enregistrement unique dans la table Customer.
 
-INSERT INTO Customer (
+INSERT INTO customer (
     customer_id, 
     customer_name, 
     email, 
