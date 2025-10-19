@@ -1,3 +1,4 @@
--- Objectif: Afficher la description complète de la table 'books' sans utiliser DESCRIBE ou EXPLAIN.
+-- Objectif: Afficher la structure complète de la table 'books' en utilisant SHOW CREATE TABLE.
 
+USE alx_book_store;
 SHOW CREATE TABLE Books;
