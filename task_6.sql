@@ -11,7 +11,7 @@ VALUES
     2, 
     'Blessing Malik', 
     'bmalik@sandtech.com', 
-    '124 Happiness Ave.'
+    "124 Happiness  Ave."
 ),
 (
     3, 
